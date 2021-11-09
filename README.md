@@ -4,3 +4,14 @@
 - :hammer: Creator of applications and frameworks
 - :ram: Founder of ofd.js
 - :meat_on_bone: Meat lover
+
+```js
+// .prettierrc
+{
+  "semi": false,
+  "singleQuote": false,
+  "printWidth": 300
+}
+```
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=dltech21&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
