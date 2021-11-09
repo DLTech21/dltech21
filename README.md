@@ -4,3 +4,6 @@
 - :hammer: Creator of applications and frameworks
 - :ram: Founder of ofd.js
 - :meat_on_bone: Meat lover
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltech21)](https://github.com/anuraghazra/github-readme-stats)
+
